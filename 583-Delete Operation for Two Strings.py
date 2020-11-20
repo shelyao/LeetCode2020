@@ -43,3 +43,17 @@ class Solution:
                 else:
                     dp[i][j] = max(dp[i-1][j], dp[i][j-1])
         return (m+n-2*dp[-1][-1])
+    ##LCS + memo
+    def minDistance(self, word1: str, word2: str) -> int:
+        m, n = len(word1), len(word2)
+        memo = {}
+        def dfs(i, j):
+            if i < 0 or j < 0: return 0
+            if (i, j) not in memo:
+                if word1[i] == word2[j]:
+                    res = dfs(i-1, j-1) + 1
+                else:
+                    res = max(dfs(i-1, j), dfs(i, j-1))
+                memo[(i, j)] = res
+            return memo[(i, j)]
+        return m + n - 2*dfs(m-1, n-1)
