@@ -3,6 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/editor/en/[1052]Grumpy Bookstore Owner.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[1052]Grumpy Bookstore Owner.py" />
+              <option name="questionId" value="1138" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/en/[1234]Replace the Substring for Balanced String.py">
           <value>
             <LeetcodeEditor>
@@ -24,6 +32,14 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/editor/en/[1537]Get the Maximum Score.py" />
               <option name="questionId" value="1659" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[1574]Shortest Subarray to be Removed to Make Array Sorted.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[1574]Shortest Subarray to be Removed to Make Array Sorted.py" />
+              <option name="questionId" value="1679" />
             </LeetcodeEditor>
           </value>
         </entry>
