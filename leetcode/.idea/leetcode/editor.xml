@@ -3,6 +3,14 @@
   <component name="LeetcodeEditor">
     <option name="projectConfig">
       <map>
+        <entry key="$PROJECT_DIR$/editor/en/[1011]Capacity To Ship Packages Within D Days.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[1011]Capacity To Ship Packages Within D Days.py" />
+              <option name="questionId" value="1056" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/en/[1052]Grumpy Bookstore Owner.py">
           <value>
             <LeetcodeEditor>
@@ -11,11 +19,35 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[1231]Divide Chocolate.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[1231]Divide Chocolate.py" />
+              <option name="questionId" value="1192" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/en/[1234]Replace the Substring for Balanced String.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/editor/en/[1234]Replace the Substring for Balanced String.py" />
               <option name="questionId" value="1351" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[1283]Find the Smallest Divisor Given a Threshold.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[1283]Find the Smallest Divisor Given a Threshold.py" />
+              <option name="questionId" value="1408" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[1482]Minimum Number of Days to Make m Bouquets.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[1482]Minimum Number of Days to Make m Bouquets.py" />
+              <option name="questionId" value="1605" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -83,11 +115,43 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[304]Range Sum Query 2D - Immutable.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[304]Range Sum Query 2D - Immutable.py" />
+              <option name="questionId" value="304" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/en/[391]Perfect Rectangle.py">
           <value>
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/editor/en/[391]Perfect Rectangle.py" />
               <option name="questionId" value="391" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[410]Split Array Largest Sum.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[410]Split Array Largest Sum.py" />
+              <option name="questionId" value="410" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[774]Minimize Max Distance to Gas Station.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[774]Minimize Max Distance to Gas Station.py" />
+              <option name="questionId" value="788" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[875]Koko Eating Bananas.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[875]Koko Eating Bananas.py" />
+              <option name="questionId" value="907" />
             </LeetcodeEditor>
           </value>
         </entry>
