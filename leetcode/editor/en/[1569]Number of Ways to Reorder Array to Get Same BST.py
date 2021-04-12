@@ -84,5 +84,13 @@
 # leetcode submit region begin(Prohibit modification and deletion)
 class Solution:
     def numOfWays(self, nums: List[int]) -> int:
-        
+        def helper(subset):
+            if not subset: return 1
+            root = subset[0]
+            left = [i for i in subset if i < root]
+            right = [i for i in subset if i > root]
+            arrange_left = helper(left)
+            arrange_right = helper(right)
+            return arrange_left*arrange_right*(math.comb(len(left) + len(right), len(left)))
+        return (helper(nums) - 1)%(10**9 + 7)
 # leetcode submit region end(Prohibit modification and deletion)
