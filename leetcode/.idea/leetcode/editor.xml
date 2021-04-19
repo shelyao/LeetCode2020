@@ -43,6 +43,14 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[1146]Snapshot Array.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[1146]Snapshot Array.py" />
+              <option name="questionId" value="1249" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/en/[1231]Divide Chocolate.py">
           <value>
             <LeetcodeEditor>
@@ -64,6 +72,38 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/editor/en/[1283]Find the Smallest Divisor Given a Threshold.py" />
               <option name="questionId" value="1408" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[1381]Design a Stack With Increment Operation.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[1381]Design a Stack With Increment Operation.py" />
+              <option name="questionId" value="1497" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[1460]Make Two Arrays Equal by Reversing Sub-arrays.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[1460]Make Two Arrays Equal by Reversing Sub-arrays.py" />
+              <option name="questionId" value="1556" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[1461]Check If a String Contains All Binary Codes of Size K.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[1461]Check If a String Contains All Binary Codes of Size K.py" />
+              <option name="questionId" value="1557" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[146]LRU Cache.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[146]LRU Cache.py" />
+              <option name="questionId" value="146" />
             </LeetcodeEditor>
           </value>
         </entry>
@@ -171,6 +211,22 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[380]Insert Delete GetRandom O(1).py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[380]Insert Delete GetRandom O(1).py" />
+              <option name="questionId" value="380" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[381]Insert Delete GetRandom O(1) - Duplicates allowed.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[381]Insert Delete GetRandom O(1) - Duplicates allowed.py" />
+              <option name="questionId" value="381" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/editor/en/[391]Perfect Rectangle.py">
           <value>
             <LeetcodeEditor>
@@ -184,6 +240,22 @@
             <LeetcodeEditor>
               <option name="path" value="$PROJECT_DIR$/editor/en/[410]Split Array Largest Sum.py" />
               <option name="questionId" value="410" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[432]All O`one Data Structure.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[432]All O`one Data Structure.py" />
+              <option name="questionId" value="432" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/editor/en/[460]LFU Cache.py">
+          <value>
+            <LeetcodeEditor>
+              <option name="path" value="$PROJECT_DIR$/editor/en/[460]LFU Cache.py" />
+              <option name="questionId" value="460" />
             </LeetcodeEditor>
           </value>
         </entry>
